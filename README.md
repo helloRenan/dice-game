@@ -75,7 +75,7 @@ If you'd like to contribute to this project, feel free to submit a pull request 
 
 ## 🔗 License
 
-This project is open source and available under the `MIT License`.
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
