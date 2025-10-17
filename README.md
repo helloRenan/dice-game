@@ -6,7 +6,7 @@ Welcome to the **Dice Game** repository! This project is a simple dice game buil
 
 ## 📚 How the Game Works
 
-1. **Page Refresh:** Every time the page is refreshed, two random numbers between 1 and 6 are generated—one for **Player 1** and one for **Player 2**.
+1. **Page Refresh:** Every time the page is refreshed, two random numbers between 1 and 6 are generated - one for **Player 1** and one for **Player 2**
 2. **Dice Roll:** Based on the generated numbers, the images of dice corresponding to the rolled values are displayed for both players on the page.
 3. **Winner:** The player with the higher roll wins the round. If both players roll the same number, it's a tie.
 
